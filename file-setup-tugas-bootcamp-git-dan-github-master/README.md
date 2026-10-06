@@ -4,7 +4,7 @@ Tugas Akhir Basic Bootcamp Komandro 2026 — Git & GitHub.
 
 ## Tema Website
 
-Website ini menampilkan layanan laundry melalui bagian beranda, profil, dan kontak.
+Bagian beranda memperkenalkan layanan laundry dan keunggulannya.
 
 ## Anggota & Pembagian Tugas
 
